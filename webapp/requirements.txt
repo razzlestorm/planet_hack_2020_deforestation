@@ -1,5 +1,7 @@
 flask
+flask-debugtoolbar
 geopandas
 python-dotenv
 requests
+geopy
 
